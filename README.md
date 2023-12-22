@@ -28,10 +28,10 @@ Um dos grandes indicadores de desenvolvimento regional e da qualidade de vida de
 
 ## Referências 
 
-- [Google1](https://www.prefeitura.sp.gov.br/cidade/secretarias/assistencia_social/censo_2021/index.php?p=2007)
-- [Google2](https://dados.gov.br/dados/conjuntos-dados/atlasbrasil)
-- [Google3](https://www.sciencedirect.com/topics/computer-science/logistic-regression#:~:text=Logistic%20regression%20is%20a%20process,%2Fno%2C%20and%20so%20on)
-- [Google4](https://help.salesforce.com/s/articleView?id=sf.bi_edd_model_metrics_cross_validation_measure.htm&type=5)
-- [Google5](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b)
-- [Google6](https://towardsdatascience.com/credit-card-fraud-detection-using-machine-learning-python-5b098d4a8edc)
-- [Google7](https://www.upgrad.com/blog/multinomial-naive-bayes-explained/ rd)
+- [Base de dados do Censo 2021](https://www.prefeitura.sp.gov.br/cidade/secretarias/assistencia_social/censo_2021/index.php?p=2007)
+- [ Base de dados dos indicadores socioeconômicos](https://dados.gov.br/dados/conjuntos-dados/atlasbrasil)
+- [Modelo Regressão Logística](https://www.sciencedirect.com/topics/computer-science/logistic-regression#:~:text=Logistic%20regression%20is%20a%20process,%2Fno%2C%20and%20so%20on)
+- [Modelo Validação Cruzada](https://help.salesforce.com/s/articleView?id=sf.bi_edd_model_metrics_cross_validation_measure.htm&type=5)
+- [Métricas de Análise de desempenho](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b)
+- [Decision Tree model](https://towardsdatascience.com/credit-card-fraud-detection-using-machine-learning-python-5b098d4a8edc)
+- [Multinominal Naive- Bayes](https://www.upgrad.com/blog/multinomial-naive-bayes-explained/)
