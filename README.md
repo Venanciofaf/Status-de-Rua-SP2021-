@@ -1,6 +1,6 @@
 # Análise Pessoas em Situação de Rua em SP (2021)
 
-![imagem do censo ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prefeitura.sp.gov.br%2Fcidade%2Fsecretarias%2Fassistencia_social%2Fcenso_2021%2Findex.php%3Fp%3D2007&psig=AOvVaw33icnFEiPOUh11lJWtx0al&ust=1703291447051000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOig1Z_loYMDFQAAAAAdAAAAABAD)
+![imagem do censo ](https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/censo_2021_1648225614.jpg)
 
 
 ## Visão Geral do Projeto 
