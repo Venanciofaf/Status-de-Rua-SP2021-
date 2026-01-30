@@ -1,0 +1,10 @@
+# Chat Skill Integration - Dependencies
+
+# Core (sempre necessário)
+# Nenhuma dependência externa para o módulo base
+
+# Para integração com Claude API (opcional)
+anthropic>=0.18.0
+
+# Para MCP Server (opcional)
+mcp>=1.0.0
